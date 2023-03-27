@@ -834,7 +834,7 @@ section.no-bg, #content.no-bg{
 footer {
 	background: #071C26;
 	color:#ffffff;
-	padding: 80px 0 0 0;
+	padding: 10px 0 0 0;
 	font-size: 14px;
 }
 
@@ -3035,7 +3035,7 @@ i.font60{
 
 .feature-box.f-boxed{
 	overflow:none;
-	padding:50px;
+	padding: 50px 10px 50px 10px;
 	background:#F0F4FD;
 	border-radius:15px;
 	-moz-border-radius:15px;
